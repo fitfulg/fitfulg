@@ -2,11 +2,11 @@
 ## A little code about me...
 ~~~
 const status = {
-  Done: ["Web App Development FP2", "JavaScript Bootcamp by Lemoncode"],
-  Doing: ["Front-End Master by Lemoncode"]
+  done: ["JavaScript Bootcamp by Lemoncode"],
+  onWork: ["Web App Development FP2", "Front-End Master by Lemoncode"]
 }
 
-const myBests = {
+const bestskills = {
   code: [Javascript, Node, TypeScript, HTML, CSS, SASS, SQL, MongoDB, Mongoose],
   Frameworks: [Angular],
   CMS: [WordPress]
