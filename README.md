@@ -1,5 +1,5 @@
-### Hi there, I'm Eric Ramos from Barcelona, Spain.
-### A little code about me...
+#### Hi there, I'm Eric Ramos from Barcelona, Spain.
+#### A little code about me...
 ~~~ js
 const status = {
   done: ["JavaScript Bootcamp by Lemoncode"],
