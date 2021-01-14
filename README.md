@@ -1,6 +1,4 @@
 ## Hi there, I'm Eric Ramos from Barcelona, Spain.
-___
-
 ## A little code about me...
 ~~~
 const status = {
