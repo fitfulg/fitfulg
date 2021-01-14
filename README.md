@@ -14,7 +14,7 @@ const bestskills = {
 }
 
 const knowledgeOf = {
-  code: [C, Java, Hibernate, PHP, Shell],
+  code: [C, Java, Hibernate, PHP, JQuery, Shell],
   Frameworks: [Laravel],
   ID: [Eclipse, NetBeans, IntelliJ],
 }
