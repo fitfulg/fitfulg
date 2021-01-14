@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I'm Eric Ramos from Barcelona, Spain.
+___
 
-<!--
-**fitfulg/fitfulg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little code about me...
+~~~
+const status = {
+  Done: ["Web App Development FP2", "JavaScript Bootcamp by Lemoncode"],
+  Doing: ["Front-End Master by Lemoncode"]
+}
 
-Here are some ideas to get you started:
+const myBests = {
+  code: [Javascript, Node, TypeScript, HTML, CSS, SASS, SQL, MongoDB, Mongoose],
+  Frameworks: [Angular],
+  CMS: [WordPress]
+  ID: [VSCode] 
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const knowledgeOf = {
+  code: [C, Java, Hibernate, PHP, Shell],
+  Frameworks: [Laravel],
+  ID: [Eclipse, NetBeans, IntelliJ],
+}
