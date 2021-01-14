@@ -1,6 +1,6 @@
 ## Hi there, I'm Eric Ramos from Barcelona, Spain.
 ## A little code about me...
-~~~
+~~~ js
 const status = {
   done: ["JavaScript Bootcamp by Lemoncode"],
   onWork: ["Web App Development FP2", "Front-End Master by Lemoncode"]
