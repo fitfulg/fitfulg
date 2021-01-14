@@ -7,7 +7,7 @@ const status = {
 }
 
 const bestskills = {
-  code: [Javascript, Node, TypeScript, HTML, CSS, SASS, SQL, MongoDB, Mongoose],
+  code: [JavaScript, Node, TypeScript, HTML, CSS, SASS, SQL, MongoDB, Mongoose],
   Frameworks: [Angular],
   CMS: [WordPress]
   ID: [VSCode] 
