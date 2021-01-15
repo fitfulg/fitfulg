@@ -7,21 +7,19 @@ const status = {
 }
 
 const bestSkills = {
-  technologies: [JavaScript, Node, TypeScript, HTML5, 
-  SQL, MongoDB, Mongoose, 
-  Angular,
-  WordPress],
-  tools: [VSCode, Git]
+  langs: [JavaScript, Node, TypeScript, UML, HTML5],
+  db: [SQL],
+  tools: [VSCode, Git, NPM, Parcel, Webpack]
 }
 
 const knowledgeOf = {
-  technologies: [C, Java, Hibernate, PHP, Bootstrap4, SASS, JQuery,
-  Laravel, Spring,
-  Firebase],
-  tools: [Eclipse, IntelliJ, NetBeans]
+  langs: [Java, PHP, C, Bootstrap4, SASS, JQuery],
+  Frameworks: [Laravel, Spring],
+  db: [MongoDB, Mongoose, JPA]
   }
 
 const lookingForwardTo = {
-  technologies: [AWS, GraphQL, Docker, Kubernetes,
-  VueJs, React, ReactNative],
+  cloud: [AWS, Firebase, Azure],
+  tools: [Docker, Kubernetes],
+  Frameworks: [Angular, VueJs, React, RxJs, Gatsby, ReactNative]
 }
