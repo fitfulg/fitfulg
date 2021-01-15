@@ -6,15 +6,22 @@ const status = {
   onWork: ["Web App Development FP2", "Front-End Master by Lemoncode"]
 }
 
-const bestskills = {
-  code: [JavaScript, Node, TypeScript, HTML, CSS, SASS, SQL, MongoDB, Mongoose],
-  Frameworks: [Angular],
-  CMS: [WordPress]
-  ID: [VSCode] 
+const bestSkills = {
+  technologies: [JavaScript, Node, TypeScript, HTML5, 
+  SQL, MongoDB, Mongoose, 
+  Angular,
+  WordPress],
+  tools: [VSCode, Git]
 }
 
 const knowledgeOf = {
-  code: [Shell, C, Java, Hibernate, PHP, Bootstrap4, JQuery],
-  Frameworks: [Laravel],
-  ID: [Eclipse, NetBeans, IntelliJ],
+  technologies: [C, Java, Hibernate, PHP, Bootstrap4, SASS, JQuery,
+  Laravel, Spring,
+  Firebase],
+  tools: [Eclipse, IntelliJ, NetBeans]
+  }
+
+const lookingForwardTo = {
+  technologies: [AWS, GraphQL, Docker, Kubernetes,
+  VueJs, React, ReactNative],
 }
