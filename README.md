@@ -3,16 +3,16 @@
 ~~~ js
 const status = [
 {
-  doing: [
+  doing: {
        "Software Developer Internship at Edrans Iberia", 
        "Front-End Master by Lemoncode"
-       ]
+       }
 },
 {
-  done: [
+  done: {
       "Web App Development FP2", 
       "JavaScript Bootcamp by Lemoncode"
-      ]
+      }
 },
 ]
 ~~~
